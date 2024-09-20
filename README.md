@@ -1,9 +1,5 @@
 
-### Setup .env file
-
-```js
-PORT=...
-MONGO_DB_URI=...
-JWT_SECRET=...
-NODE_ENV=...
-```
+### Vishnupriya Tudu
+University: Indian Institute of technology - Ropar
+Department: Mathematics and Computing
+Entry No.: 2022mcb1282
