@@ -130,3 +130,13 @@ This will start the React development server (by default on port `8000`).
 
 2. Serve the Frontend Using Express: Ensure that the frontend build folder is served by your Express server (which should already be set up in `server.js`).
 
+
+### Setup .env file
+
+```js
+PORT=...
+MONGO_DB_URI=...
+JWT_SECRET=...
+NODE_ENV=...
+```
+
